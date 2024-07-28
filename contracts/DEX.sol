@@ -5,11 +5,7 @@ pragma solidity >=0.8.0 <0.9.0;
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 /**
- * @title DEX Template
- * @author stevepham.eth and m00npapi.eth
- * @notice Empty DEX.sol that just outlines what features could be part of the challenge (up to you!)
- * @dev We want to create an automatic market where our contract will hold reserves of both ETH and 🎈 Balloons. These reserves will provide liquidity that allows anyone to swap between the assets.
- * NOTE: functions outlined here are what work with the front end of this challenge. Also return variable names need to be specified exactly may be referenced (It may be helpful to cross reference with front-end code function calls).
+ * @dev I want to create an automatic market where our contract will hold reserves of both ETH and 🎈 Balloons. These reserves will provide liquidity that allows anyone to swap between the assets.
  */
 contract DEX {
 	/* ========== GLOBAL VARIABLES ========== */
