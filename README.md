@@ -2,7 +2,7 @@
 
 ```
 git clone https://github.com/YashwardhanMPaniya/DEX.git
-cd hardhat-smartcontract-lottery-fcc
+cd DEX
 yarn
 ```
 
